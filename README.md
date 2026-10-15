@@ -1,29 +1,73 @@
-# Fauziah Azhel
+<div align="center">
 
-Web Developer based in Indonesia. I build fast, responsive, and SEO-friendly websites — landing pages, company profiles, and online stores.
+# 👋 Hi, I'm Fauziah Azhel
 
-## Tech Stack
+### ⚡ Web Developer based in Indonesia
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-1A2E1A?style=flat&logo=node.js&logoColor=339933)
+*I build fast, responsive, and SEO-friendly websites — landing pages, company profiles, and online stores.*
 
-Currently deepening React and Node.js.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fauziahazhel.github.io-6366f1?style=for-the-badge)](https://fauziahazhel.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-fauziahazhel@gmail.com-EA4335?style=for-the-badge)](mailto:fauziahazhel@gmail.com)
 
-## GitHub Stats
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauziahazhel&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahazhel&layout=compact&theme=github_dark)
+---
 
-## Portfolio
+## 🛠️ Tech Stack
 
-https://fauziahazhel.github.io
+<div align="center">
 
-## Contact
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-- GitHub: [@fauziahazhel](https://github.com/fauziahazhel)
-- Email: fauziahazhel@gmail.com
-- Location: Indonesia, available remote
+</div>
+
+> 🚀 *Currently deepening React, TypeScript, and Node.js.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauziahazhel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahazhel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Live |
+|---|---|---|
+| ⚡ **ZerMail** | Temp-mail app — email sementara kilat dengan OTP extraction, multi-inbox, dark mode | [mail.adeerazer.web.id](https://mail.adeerazer.web.id) |
+| ☕ **BeeCoffee** | Coffee shop website dengan desain modern | [beecoffee.web.id](https://beecoffee.web.id) |
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+- 📍 Indonesia — available remote
+- 📧 fauziahazhel@gmail.com
+- 🌐 [fauziahazhel.github.io](https://fauziahazhel.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+*✨ "Build fast, ship faster."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=fauziahazhel&color=6366f1&style=flat-square)
+
+</div>
